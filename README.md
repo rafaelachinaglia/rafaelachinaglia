@@ -1,16 +1,16 @@
-### Hi there 👋
+# Rafaela Chinaglia Ferreira
 
-<!--
-**rafaelachinaglia/rafaelachinaglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, seja bem vinda(o) ao meu perfil! 
+Meu nome é Rafaela, tenho 25 anos e estou estudando para me tornar desenvolvedora Front-End :) 
 
-Here are some ideas to get you started:
+Atualmente estou estagiando na empresa [OnlineApp](https://www.onlineapp.com.br/) como desenvolvedora de software. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto muito de ler, dançar, sobremesas, Ciências, História e viajar. 
+
+Caso preciso, você pode me encontrar aqui:
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafaela-chinaglia-ferreira/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rafachinaglia_/)
+
+
+![coderGirl](https://user-images.githubusercontent.com/93222047/165958085-6f5d5ece-f3a6-4283-8924-2b2048d7001e.PNG)
+
