@@ -1,7 +1,4 @@
-<div align="center"> 
-  
-![coderGirl](https://user-images.githubusercontent.com/93222047/165958484-9e47bc22-adc0-4cb4-9ebb-a25fb702f8a5.PNG)
-  
+
 </div>
 
 <div align="center"> 
